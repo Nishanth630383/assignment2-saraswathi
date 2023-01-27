@@ -29,3 +29,10 @@ In these section I will recommed some countries to visit if you want spend the q
 |Italy | If you want to see the anccient structurs and if you want to try the worlds best pizza you should go there and have a try | 10 |
 | England | It is the only place where you want to visit again and again. There you will find the amazing monuments and mainly you can see the kohinoor which is there in london | 10|
 | Maldives | If you want to just relax by seating at beach side have nice wine with your loved one by looking at the nature  then this is best place | 5|
+
+--------------------------------------------------
+
+### Funny quotes
+> "No man goes before his time—unless the boss leaves early." -- *Groucho Marx*
+>
+>"If you think your boss is stupid, remember: you wouldn't have a job if he was any smarter." -- *John Gotti*
