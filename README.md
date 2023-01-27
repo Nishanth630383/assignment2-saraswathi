@@ -16,3 +16,16 @@
 * England
 
 Some Facts about me [About Me](AboutMe.md)
+
+-------------------------------------
+
+### Countries to visit
+
+In these section I will recommed some countries to visit if you want spend the quality of youe trip.
+
+| Country | Reason | Number of Days |
+| :---: | :---: | :---: |
+| France| We all now paris is the place of love where you see nice places like Eiffel Tower, the louvre and the Arc de which are in france state | 7 |
+|Italy | If you want to see the anccient structurs and if you want to try the worlds best pizza you should go there and have a try | 10 |
+| England | It is the only place where you want to visit again and again. There you will find the amazing monuments and mainly you can see the kohinoor which is there in london | 10|
+| Maldives | If you want to just relax by seating at beach side have nice wine with your loved one by looking at the nature  then this is best place | 5|
