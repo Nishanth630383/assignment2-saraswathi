@@ -36,3 +36,19 @@ In these section I will recommed some countries to visit if you want spend the q
 > "No man goes before his time—unless the boss leaves early." -- *Groucho Marx*
 >
 >"If you think your boss is stupid, remember: you wouldn't have a job if he was any smarter." -- *John Gotti*
+
+----------------------------------------------------
+
+### code Fencing
+> How do I display authors on Wordpress Blog Posts?
+
+<https://stackoverflow.com/questions/40597650/how-do-i-display-authors-on-wordpress-blog-posts>
+
+```
+<div class="author-box">
+   <div class="author-pic"><?php echo get_avatar( get_the_author_email(), '80' ); ?></div>
+   <div class="author-name"><?php the_author_meta( "display_name" ); ?></div>
+   <div class="author-bio"><?php the_author_meta( "user_description" ); ?></div>
+</div>
+```
+<https://css-tricks.com/snippets/wordpress/display-author-info/>
